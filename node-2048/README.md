@@ -6,8 +6,8 @@ Popular game recreate in javascript
 ```sh 
 git clone https://github.com/melsen888/GAME
 ```
-or
-Download file
+or\
+Download file\
 2. Install NPM packages
 ```sh
 npm install
