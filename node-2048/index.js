@@ -10,6 +10,7 @@ let game = [
     [0, 0, 0, 0]
 ];
 function printGame() {
+    console.clear();
     console.log("-------");
     for (let i = 0; i < game.length; i++) {
         console.log(game[i][0], "   ", game[i][1], "   ", game[i][2], "   ", game[i][3]);
